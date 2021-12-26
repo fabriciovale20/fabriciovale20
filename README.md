@@ -1,4 +1,4 @@
-<img style="width: 1200px; height: 280px" src="https://i.pinimg.com/originals/c1/11/18/c111189fe2b4ae01fef5b098efef4ce9.gif">
+<img style="width: 1200px; height: 280px" src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif">
 
 ## Olá, eu sou Fabrício Vale ✌
  <div>
