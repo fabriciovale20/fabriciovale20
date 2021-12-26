@@ -1,5 +1,3 @@
-<img style="width: 1200px; height: 180px" src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif">
-
 ## Welcome ✌
  <div>
   <a href="https://github.com/fabriciovale20">
@@ -18,3 +16,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/fabrício-vale-6713b998/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+ <img style="width: 1200px; height: 180px" src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif">
