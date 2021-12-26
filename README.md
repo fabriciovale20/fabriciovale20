@@ -1,6 +1,6 @@
-<img style="width: 900px; height: 180px" src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif">
+<img style="width: 700px; height: 180px" src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif">
 
-## Olá, eu sou Fabrício Vale ✌
+## Welcome ✌
  <div>
   <a href="https://github.com/fabriciovale20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciovale20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
