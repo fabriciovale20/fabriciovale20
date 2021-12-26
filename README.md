@@ -1,4 +1,4 @@
-<img style="width: 700px; height: 180px" src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif">
+<img style="width: 1200px; height: 180px" src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif">
 
 ## Welcome ✌
  <div>
