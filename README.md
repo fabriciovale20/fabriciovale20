@@ -8,12 +8,12 @@ Sou Analista de Suporte Técnico na empresa <a href='https://tcmhd.com.br/' targ
 Atualmente estudo desenvolvimento Web e automação em Python.
 
 
-### Linguagens
+### <h3>Linguagens:</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### rameworks
+### Frameworks
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
