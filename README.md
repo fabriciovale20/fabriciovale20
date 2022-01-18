@@ -4,7 +4,7 @@ Olá, eu sou Fabrício Vale.
 <br>
 Sou Analista de Suporte Técnico na empresa <a href='https://tcmhd.com.br/' target='_blank'>TCM Telecom</a>.
 </br>
-Estou cursando Análise e Desenvolvimento de Sistemas.
+<br>Estou cursando Análise e Desenvolvimento de Sistemas.</br>
 Atualmente estudo desenvolvimento Web e automação em Python.
 
 
