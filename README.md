@@ -34,5 +34,3 @@ Estou cursando Análise e Desenvolvimento de Sistemas.
 ### <strong>Contato:</strong>
 
 <a target='_blank' href='https://www.linkedin.com/in/fabrício-vale-6713b998/'>![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=fabriciovale20.fabriciovale20)
