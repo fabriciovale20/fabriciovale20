@@ -1,6 +1,6 @@
 <h1> Olá, me chamo Fabrício Vale </h1>
 
-Sou Analista de Suporte Técnico na empresa <a href='https://tcmhd.com.br/' target='_blank'>TCM Telecom</a>.
+Sou Analista de Sistemas na empresa <a href='https://tcmhd.com.br/' target='_blank'>TCM Telecom</a>.
 
 Estou cursando Análise e Desenvolvimento de Sistemas.
 <br>Atualmente estudo desenvolvimento Web e automação com Python.</br>
