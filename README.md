@@ -31,5 +31,5 @@ Estou cursando Análise e Desenvolvimento de Sistemas.
 
 
 ### <strong>Contato:</strong>
-<a href='https://portfolio-fabriciovale.vercel.app' target='_blank'>![Portifólio](https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true)</a>
+<a target='_blank' href='https://portfolio-fabriciovale.vercel.app'>![Portifólio](https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true)</a>
 <a target='_blank' href='https://www.linkedin.com/in/fabrício-vale-6713b998/'>![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
