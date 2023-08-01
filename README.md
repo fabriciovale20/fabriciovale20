@@ -3,7 +3,7 @@
 Sou Analista de Sistemas na empresa <a href='https://tcmhd.com.br/' target='_blank'>TCM Telecom</a>.
 
 Estou cursando Análise e Desenvolvimento de Sistemas.
-<br>Atualmente estudo desenvolvimento Web e automação com Python e JavaScript.</br>
+<br>Atualmente estudo desenvolvimento Web com Python e JavaScript.</br>
 
 
 ### <strong>Linguagens:</strong>
