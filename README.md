@@ -3,13 +3,13 @@
 Sou Analista de Sistemas na empresa <a href='https://tcmhd.com.br/' target='_blank'>TCM Telecom</a>.
 
 Estou cursando Análise e Desenvolvimento de Sistemas.
-<br>Atualmente estudo desenvolvimento Web e automação com Python.</br>
+<br>Atualmente estudo desenvolvimento Web e automação com Python e JavaScript.</br>
 
 
 ### <strong>Linguagens:</strong>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### <strong>Frameworks:</strong>
 
