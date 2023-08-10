@@ -2,7 +2,6 @@
 
 Sou Analista de Sistemas na empresa <a href='https://tcmhd.com.br/' target='_blank'>TCM Telecom</a>.
 
-Estou cursando Análise e Desenvolvimento de Sistemas.
 <br>Atualmente sou Desenvolvedor Fullstack focado em desenvolvimento web e automação de processos utilizando Python e JavaScript.</br>
 
 
