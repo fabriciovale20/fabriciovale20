@@ -2,13 +2,14 @@
 
 Sou Analista de Desenvolvimento na empresa <a href='https://tcmhd.com.br/' target='_blank'>TCM Telecom</a>.
 
-Atualmente sou Desenvolvedor Fullstack focado em desenvolvimento web e automação de processos utilizando Python e JavaScript.
+Atualmente sou Desenvolvedor Back-End focado em desenvolvimento web e automação de processos.
 
 
 ### <strong>Linguagens:</strong>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### <strong>Frameworks:</strong>
 
