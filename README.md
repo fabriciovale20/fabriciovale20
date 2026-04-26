@@ -6,7 +6,7 @@
 
 <p align="center">
   Desenvolvedor especializado em <strong>Agentes de IA</strong> e automações inteligentes, com foco em transformar processos manuais em operações autônomas e eficientes.<br/>
-  Possui <strong>Agentes de IA em produção</strong>, desenvolvidos com N8N e Python, com arquitetura RAG integrada a bases de conhecimento reais.
+  <strong>Agentes de IA em produção</strong>, desenvolvidos com N8N e Python, com arquitetura RAG integrada a bases de conhecimento reais.
 </p>
 
 <br/>
